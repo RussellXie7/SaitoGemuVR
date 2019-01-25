@@ -5,6 +5,7 @@
 # Inverse Ignore some stuff
 !/Assets/
 !/ProjectSettings/
+!/VoiceRecognition
 !.gitignore
 
 # OS Stuff

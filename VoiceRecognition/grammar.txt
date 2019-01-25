@@ -1,0 +1,13 @@
+# comment
+#P 26000
+#I 127.0.0.1
+#C Africa
+#N
+#S Test
+#E Shit
+#V 70
+#D
+
+Test
+Activate
+Vanish
