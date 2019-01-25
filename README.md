@@ -2,7 +2,7 @@
 
 SaitoGemu VR is an action-packed virtual reality horror game for Oculus Rift inspired by the PlayTest in Black Mirror. You are trapped in a graveyard full of different kinds of skeleton zombies with nothing in your hand, and you need to try your best to find all the necessary components to solve the puzzle. There are guns left by a mysterious person that you may find, but your fists can be your weapon as well. Can you escape in the end? 
 
-Find our full experience demo at: https://www.youtube.com/watch?v=pcAqu6m4qVY
+Find our full experience demo at: https://youtu.be/pcAqu6m4qVY?t=52
 
 ## Getting Started
 
