@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
 Unity 2017.3 or up
 Oculus Rift Headset
 Oculus Touch
-Oculus Software
+Oculus Runtime
 PC compatible with VR
 ```
 
